@@ -1,0 +1,15 @@
+# datasets and course material are not uploaded (project guidelines)
+data
+data/
+info/
+*.mat
+*.zip
+# outputs
+figures/
+results/
+*.png
+*.pdf
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
